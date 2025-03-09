@@ -1,0 +1,3 @@
+C:/Users/ASUS/source/repos/VectorianEditor/cmake-build-debug/CMakeFiles/VectorianEditor.dir
+C:/Users/ASUS/source/repos/VectorianEditor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/source/repos/VectorianEditor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

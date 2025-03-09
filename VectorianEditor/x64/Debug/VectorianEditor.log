@@ -1,0 +1,24 @@
+﻿  functions.cpp
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(159,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(233,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(234,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(401,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(415,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(505,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(538,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(566,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(603,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(609,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(640,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(646,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(677,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(711,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(752,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(794,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(845,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(908,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(951,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(1115,11): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(1133,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\editor\VectorianEditor\functions.cpp(1145,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  VectorianEditor.vcxproj -> C:\Users\ASUS\Desktop\editor\x64\Debug\VectorianEditor.exe
